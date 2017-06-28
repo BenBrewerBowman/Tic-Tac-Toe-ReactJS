@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+## Requirements
+1. Make sure you have a recent version of Node.js installed.
+2. Install React
+* To install React with Yarn, run:
+  `yarn init`
+  `yarn add react react-dom`
+
+* To install React with npm, run:
+  `npm init`
+  `npm install --save react react-dom`
+
+If you run npm start in the project folder and open http://localhost:3000 in the browser, you should see an empty tic-tac-toe field.
+
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
